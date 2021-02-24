@@ -1,0 +1,3762 @@
+[
+  {
+    "url": "https://skillbox.ru/course/profession-data-scientist/",
+    "ru": "Data Scientist",
+    "ua": "Data Scientist",
+    "isPro": true,
+    "category": "programming",
+    "period": "18 месяцев",
+    "color": "#fbf2e7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a2badcf0d1b0145d295d504b2438e437ed0b1323.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-graphdesigner/",
+    "ru": "Графический дизайнер",
+    "ua": "Графічний дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "24 месяца",
+    "color": "#47c293",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2f781972c2056d2991a77f83eb2231440ddffb83.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/3d-generalist/",
+    "ru": "3D-дженералист",
+    "ua": "3D-дженераліст",
+    "isPro": true,
+    "category": "games",
+    "period": "24 месяца",
+    "color": "#f2b7d3",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_625cfeb485c45c2489c039f537e4e4b4ce41ddea.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-marketolog/",
+    "ru": "Интернет-маркетолог",
+    "ua": "Інтернет маркетолог",
+    "isPro": true,
+    "category": "marketing",
+    "period": "24 месяца",
+    "color": "#39a2fe",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7d3a8daa4fd14b6ab0fe997fcb97e57db3ef0b52.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-business-analyst/",
+    "ru": "Бизнес-аналитик",
+    "ua": "Бізнес-аналітик",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#95efd6",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_103cf52042897badbad23dc0b52adb121c2c92e0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-python/",
+    "ru": "Python-разработчик",
+    "ua": "Python-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#60b3ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4589beaf332198133164e04e0fb855c2c1368858.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-interiordesigner/",
+    "ru": "Дизайнер интерьеров",
+    "ua": "Дизайнер інтер'єрів",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#e9e0dd",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_18b0985eb462b86836ab39567a07b5538c4e116d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-gamedesigner/",
+    "ru": "Геймдизайнер с 0 до PRO",
+    "ua": "Геймдизайнер з 0 до PRO",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#fbb028",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_39ef6ddbd3a301b00456216d140c7a3abaf8f1f8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-smm-specialist/",
+    "ru": "SMM-специалист",
+    "ua": "SMM-фахівець",
+    "isPro": true,
+    "category": "marketing",
+    "period": "16 месяцев",
+    "color": "#90f0e1",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c9d12faae375b3527eda782f80c235a5cd5f0ac6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-project-manager-pro/",
+    "ru": "Менеджер проектов",
+    "ua": "Менеджер проєктів",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#f7d7cc",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5ac409abe61dfdf342c804ab68629fda53d6d26b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-webdev/",
+    "ru": "Веб-разработчик",
+    "ua": "Веб-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#a3a3ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1483b955a743f9098806cbe6c6d78d306a210b65.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-webdesigner/",
+    "ru": "Веб-дизайнер",
+    "ua": "Веб-дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "24 месяца",
+    "color": "#ffd0d9",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_93ca8f688652488152b95291a9e9f5968025c9b1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-unity-middle/",
+    "ru": "Разработчик игр на Unity с нуля до Middle",
+    "ua": "Розробник ігор на Unity з нуля до Middle",
+    "isPro": true,
+    "category": "games",
+    "period": "20 месяцев",
+    "color": "#c6b9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_76c879c138af52761b2016dd0098b27451bca7b1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-target/",
+    "ru": "Таргетолог с нуля до PRO",
+    "ua": "Таргетолог з нуля до PRO",
+    "isPro": true,
+    "category": "marketing",
+    "period": "24 месяца",
+    "color": "#79d8a6",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5effe4c867e38859ef5dcb32eb94bd6d044e3fcf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-product-manager-pro/",
+    "ru": "Product manager PRO",
+    "ua": "Product manager PRO",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#b3fce6",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a8a03c57d9dbecdaf51996cd5597c3a5040d2b2d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-test/",
+    "ru": "Тестировщик",
+    "ua": "Тестувальник",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#77cbfa",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0b95c9f42ca3ec65c771ec857e7f8193459ca51d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-ux/",
+    "ru": "UX/UI-дизайнер",
+    "ua": "UX/UI-дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#f2f4f4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f45739431c73c8ab9581f51a67e18189179c7433.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-concept-art-pro/",
+    "ru": "Концепт-художник с нуля до PRO",
+    "ua": "Концепт-художник з нуля до PRO",
+    "isPro": true,
+    "category": "games",
+    "period": "20 месяцев",
+    "color": "#f2b199",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d8c553430df4d4ccd7605388ff25c293fc69ecbb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-copywriter-pro/",
+    "ru": "Копирайтер PRO",
+    "ua": "Копірайтер PRO",
+    "isPro": true,
+    "category": "marketing",
+    "period": "13 месяцев",
+    "color": "#b5e8f7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f889bc566b14d853f9a8aa6ba84565ecef91b613.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-operation-manager/",
+    "ru": "Операционный менеджер",
+    "ua": "Операційний менеджер",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#fda97a",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_50e6f544d5805ecb393053a431fd87d8cd8cabef.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-java/",
+    "ru": "Java-разработчик",
+    "ua": "Java-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "9 месяцев",
+    "color": "#ffbd59",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_477ae814606ca5e5256c683921f40d2d7f29bad4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-designer-interior/",
+    "ru": "Дизайнер жилых и коммерческих интерьеров",
+    "ua": "Дизайнер житлових і комерційних інтер'єрів",
+    "isPro": true,
+    "category": "design",
+    "period": "24 месяца",
+    "color": "#ffefea",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7227774088392443146f7cb128fa96385f325257.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/film-editor/",
+    "ru": "Режиссёр монтажа",
+    "ua": "Режисер монтажу",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "12 месяцев",
+    "color": "#ffbd98",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b308dad466e1fb3c4ee78733aab00fdf72849aff.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-human-resources/",
+    "ru": "Управление персоналом",
+    "ua": "Управління персоналом",
+    "isPro": true,
+    "category": "management",
+    "period": "18 месяцев",
+    "color": "#46f0c5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9b9759a9231911a3d6986f4635c0c9cd16c9fcb5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-1c/",
+    "ru": "1C-разработчик",
+    "ua": "1C-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffd773",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_468cebf77a00674e98b6e8322a7caf3a31761433.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-motiondesigner/",
+    "ru": "‌Motion-дизайнер‌",
+    "ua": "‌ ‌Motion-дизайнер‌",
+    "isPro": true,
+    "category": "design",
+    "period": "16 месяцев",
+    "color": "#9e9dff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c4800e397bea5ac852d59a1c965906c5c634cfd7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/3d-artist/",
+    "ru": "3D-художник",
+    "ua": "3D-художник",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#dcc1ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_707fa6ed641f940a8d50c42ef240c4297cb63755.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-instagram-marketolog/",
+    "ru": "Instagram-маркетолог",
+    "ua": "Instagram-маркетолог",
+    "isPro": true,
+    "category": "marketing",
+    "period": "9 месяцев",
+    "color": "#ff9d7e",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c63c6bc3746be2aee81a9571a5cf4cced72bb826.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-producer-online-courses/",
+    "ru": "Продюсер онлайн-курсов с нуля до PRO",
+    "ua": "Продюсер онлайн-курсів з нуля до PRO",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#d5cce4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2d6f9c306eeb80c14410ca4ef1aff6c4e1f3f053.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-commercial-illustrator/",
+    "ru": "Коммерческий иллюстратор",
+    "ua": "Комерційний ілюстратор",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#ffb525",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_993b93982a37ada006ebf071834b01512ba40c7d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-2d-artist/",
+    "ru": "2D-художник",
+    "ua": "2D-художник",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#ffd3eb",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_506bf90f39bcaa48676463c4e19746afc14d65da.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-pr-manager/",
+    "ru": "PR-менеджер",
+    "ua": "PR-менеджер",
+    "isPro": true,
+    "category": "marketing",
+    "period": "6 месяцев",
+    "color": "#d1fff8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_181511e39d0973683506083eb3c7cfbb2332a8b4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-finance-manager/",
+    "ru": "Финансовый менеджер",
+    "ua": "Фінансовий менеджер",
+    "isPro": true,
+    "category": "management",
+    "period": "8 месяцев",
+    "color": "#96b7ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ec7fcb5056b85ff318ee8c2872930ec70af2dd51.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-android-developer/",
+    "ru": "Android-разработчик",
+    "ua": "Android-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "20 месяцев",
+    "color": "#a1e1b0",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d920f811604e65e12eed40215076d82c8b83d4ca.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-sound-designer/",
+    "ru": "Sound‌ ‌designer‌",
+    "ua": "‌ ‌Sound‌ ‌designer‌",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "12 месяцев",
+    "color": "#c6b9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7d7658e02f940f277764ff37e3da1a36dedf5940.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-ue4/",
+    "ru": "Разработчик игр на Unreal Engine 4 с нуля до Middle",
+    "ua": "Розробник ігор на Unreal Engine 4 з нуля до Middle",
+    "isPro": true,
+    "category": "games",
+    "period": "24 месяца",
+    "color": "#ffd56a",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_991f76383d81577e00a5449e11217bf92c090ac5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-eventmanager/",
+    "ru": "Event-менеджер",
+    "ua": "Event-менеджер",
+    "isPro": true,
+    "category": "marketing",
+    "period": "12 месяцев",
+    "color": "#f4d978",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bf4801f144abd96de87b5bec0389ffc684e601d8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-art-manager/",
+    "ru": "Арт-менеджер",
+    "ua": "Арт-менеджер",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#fec128",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_911d53f884ebf45a953319dcc860fc091413ae6d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-cybersecurity/",
+    "ru": "Специалист по кибербезопасности",
+    "ua": "Спеціаліст з кібербезпеки",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#10c9a0",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4c6a59ac49581a08d3d74c423dde4055edf13f5e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fashion-design/",
+    "ru": "Fashion-дизайнер",
+    "ua": "Fashion-дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "20 месяцев",
+    "color": "#c6b9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1406bfd90e5585f2036826b7539e382cc7a2f587.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-screenwriter/",
+    "ru": "Сценарист",
+    "ua": "Сценарист",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "12 месяцев",
+    "color": "#95ccff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_338b9f0f941a01faef78aae49626186d781879be.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-marketing-director/",
+    "ru": "Директор по маркетингу",
+    "ua": "Директор з маркетингу",
+    "isPro": true,
+    "category": "marketing",
+    "period": "10 месяцев",
+    "color": "#cddfc7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fc4bf540934f88699cf4be8c19951ac9e82a2e60.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-marketing-manager/",
+    "ru": "Product‌ ‌marketing‌ ‌manager‌",
+    "ua": "Product‌ ‌marketing‌ ‌manager‌",
+    "isPro": true,
+    "category": "management",
+    "period": "18 месяцев",
+    "color": "#e1e8ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_65b390848820b73da38dfcf2fdae38b46cda03da.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/electronic-music-production/",
+    "ru": "Создатель электронной музыки",
+    "ua": "Творець електронної музики",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "16 месяцев",
+    "color": "#cebdff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e18a4b9c2a6922e6c241b8845734c9e19d057218.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-vr-ar-dev/",
+    "ru": "Разработчик AR&VR с нуля до PRO",
+    "ua": "Розробник AR&VR з нуля до PRO",
+    "isPro": true,
+    "category": "games",
+    "period": "24 месяца",
+    "color": "#5fd4ca",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a07abba364db399e773e1d79a28153f72d1591c8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-freelance-marketer/",
+    "ru": "Маркетолог-фрилансер",
+    "ua": "Маркетолог-фрилансер",
+    "isPro": true,
+    "category": "marketing",
+    "period": "18 месяцев",
+    "color": "#fae7d5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e62cdd3d13d3daaafcf18e44abaa7160862148a0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-sports-manager/",
+    "ru": "Спортивный менеджер",
+    "ua": "Спортивний менеджер",
+    "isPro": true,
+    "category": "games",
+    "period": "24 месяца",
+    "color": "#abe5fc",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5a1420c082380020f5ac344a0e6150f83a877b27.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/java-dev/",
+    "ru": "Java-разработчик PRO",
+    "ua": "Java-розробник PRO",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#d1caff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_57c9d80b2b75745579f68b99bdd0e2c0516a955f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-landscape-design/",
+    "ru": "Ландшафтный дизайнер",
+    "ua": "Ландшафтний дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "14 месяцев",
+    "color": "#cdea7a",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_60433488233426f65b61def14fccd9abb84e9085.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-film-director/",
+    "ru": "Режиссёр",
+    "ua": "Режисер",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "12 месяцев",
+    "color": "#d6cdff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8c94c211be0bbab96288aa4080c8d682758a5ceb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-marketolog-analitik/",
+    "ru": "Маркетолог-аналитик",
+    "ua": "Маркетолог-аналітик",
+    "isPro": true,
+    "category": "marketing",
+    "period": "12 месяцев",
+    "color": "#f8b09d",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8f333ada53b08291e44726d4284a1844e6013d1e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-sales-management-b2b-b2c/",
+    "ru": "Руководитель отдела продаж B2B и B2C",
+    "ua": "Керівник відділу продажів B2B і B2C",
+    "isPro": true,
+    "category": "management",
+    "period": "8 месяцев",
+    "color": "#25ccf7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_25472b7f4d28d5d1ce612a9da135cf63349be460.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-c-plus-plus/",
+    "ru": "Разработчик на C++",
+    "ua": "Розробник на С++",
+    "isPro": true,
+    "category": "programming",
+    "period": "18 месяцев",
+    "color": "#caf4ea",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7d5b8e852952b4fc68ca058c53a3b9570fd4f3d7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-designer-interior-landscape/",
+    "ru": "Дизайнер интерьеров и ландшафтной среды",
+    "ua": "Дизайнер інтер'єрів і ландшафтного середовища",
+    "isPro": true,
+    "category": "design",
+    "period": "18 месяцев",
+    "color": "#acbffd",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d73023456dd8cda0ba3e2938537b5749ddb9ac6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-3d-animator/",
+    "ru": "3D-аниматор",
+    "ua": "3D-аніматор",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#fbb9a4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_40654928f651f36871286e1fc19b8a937fd442ab.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-context/",
+    "ru": "Менеджер по контекстной рекламе",
+    "ua": "Менеджер з контекстної реклами",
+    "isPro": true,
+    "category": "marketing",
+    "period": "12 месяцев",
+    "color": "#d0cfff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_002c59c04528423a87dbd2dc8f0318e704274a6a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/soft-skills-for-hard-times/",
+    "ru": "Soft Skills for Hard Times",
+    "ua": "Soft Skills for Hard Times",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#ffd4b4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_28114e8b9b24d3da3afe8bd9fca50d64dcbf70df.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/teamlead/",
+    "ru": "TeamLead",
+    "ua": "TeamLead",
+    "isPro": true,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffeace",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bba97d02f91d0317c5dda906ab5d66e7faf02367.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-photographer/",
+    "ru": "Фотограф",
+    "ua": "Фотограф",
+    "isPro": true,
+    "category": "design",
+    "period": "18 месяцев",
+    "color": "#ffde9a",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_831c6c643ab268f45610f420c2ad8567a9f60bc7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-game-design/",
+    "ru": "Геймдизайнер",
+    "ua": "Геймдизайнер",
+    "isPro": true,
+    "category": "games",
+    "period": "8 месяцев",
+    "color": "#9e8aff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9a9e89565b50fecf829979e99c4e773a8b693e54.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-performance-mark/",
+    "ru": "Performance-маркетолог",
+    "ua": "Performance-маркетолог",
+    "isPro": true,
+    "category": "marketing",
+    "period": "16 месяцев",
+    "color": "#ffe399",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bf5643675a659bee0485bb3896f36bb126311d0a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-economist-financier/",
+    "ru": "Экономист-финансист",
+    "ua": "Економіст-фінансист",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#ffe3b0",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_58bde12d81dabd07786b7539f738ba89e94d538b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fullstack-python/",
+    "ru": "Fullstack-разработчик на Python",
+    "ua": "Fullstack-розробник на Python",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#fececf",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_43712003895f94c163a288e6e9e0e00bbf671110.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-decorator/",
+    "ru": "Дизайнер-декоратор",
+    "ua": "Дизайнер-декоратор",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#f2ede9",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f7644b389ecd2fd693d71fb8140d4a2febed1512.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/special-effects/",
+    "ru": "Создатель спецэффектов",
+    "ua": "Творець спецефектів",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#faffc7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4beb7f044122fe68a26cb88d30574e81fa35f5f6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-digital-businessman/",
+    "ru": "Бизнес: из офлайна в онлайн",
+    "ua": "Бізнес: з офлайна в онлайн",
+    "isPro": true,
+    "category": "marketing",
+    "period": "12 месяцев",
+    "color": "#ffd80b",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fe56c65b8d139287f2fffef891e9d0d0c9842f85.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-methodist/",
+    "ru": "Методист с нуля до PRO",
+    "ua": "Методист з нуля до PRO",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#ccccff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4d461162c2afb2d994cb3d2c6236f4221b9db692.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/frontend-pro/",
+    "ru": "Frontend-разработчик PRO",
+    "ua": "Frontend-розробник PRO",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#c4fdef",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_98a708fd2012f5033663fece150133eac4387673.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-3d-visualizer/",
+    "ru": "3D-визуализатор интерьера",
+    "ua": "3D-візуалізатор інтер'єру",
+    "isPro": true,
+    "category": "design",
+    "period": "9 месяцев",
+    "color": "#add6cd",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3aad00c4e76177e0da0a7d08c829ebd4534f2ade.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-unreal-engine-4/",
+    "ru": "Разработчик игр на Unreal Engine 4",
+    "ua": "Розробник ігор на Unreal Engine 4",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#6ccaae",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_01434f34c9acf77e94ccec64c6dcb8568e8b8234.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-product-analyst/",
+    "ru": "Продуктовый аналитик",
+    "ua": "Продуктовий аналітик\n",
+    "isPro": true,
+    "category": "marketing",
+    "period": "14 месяцев",
+    "color": "#fffe99",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2fcf4bcdc055577c1305657824f2f1ad1b264e7a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/head/",
+    "ru": "Руководитель 2.0",
+    "ua": "Керівник 2.0",
+    "isPro": true,
+    "category": "management",
+    "period": "12 месяцев",
+    "color": "#fae794",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ede1096e5c0d8ce783b0e24f41b3458b64ce6771.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-godev/",
+    "ru": "Go-разработчик",
+    "ua": "Go-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffead1",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a7e144f83501cfe49ea4fbbea8d24d513f7849fc.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-game-projects-producer/",
+    "ru": "Продюсер игровых проектов",
+    "ua": "Продюсер ігрових проектів",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#ffca4d",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fa7abe8d0848a6ae9287052e080fbb5e47fce407.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-ecom/",
+    "ru": "Маркетолог e-commerce",
+    "ua": "Маркетолог e-commerce",
+    "isPro": true,
+    "category": "marketing",
+    "period": "15 месяцев",
+    "color": "#ffbcb4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f2dd17b3b5db43dd0bb8f328583e1cbc06ce5421.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/management-online-education/",
+    "ru": "Менеджмент в онлайн-образовании",
+    "ua": "Менеджмент в онлайн-освіті",
+    "isPro": true,
+    "category": "management",
+    "period": "20 месяцев",
+    "color": "#67f9b8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_96bf6eebea7e8aa0a91bd178497e842dec3990a0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-machine-learning/",
+    "ru": "Data Scientist: машинное обучение",
+    "ua": "Data Scientist: машинне навчання",
+    "isPro": true,
+    "category": "programming",
+    "period": "13 месяцев",
+    "color": "#c0d7ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fed44f030974f768f04198b669a14f45d104a101.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-app-designer/",
+    "ru": "Дизайнер мобильных приложений",
+    "ua": "Дизайнер мобільних додатків",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#9bdbf6",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_15247763204087f6879d83598a001fc37619fe35.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-unity/",
+    "ru": "Разработчик игр на Unity",
+    "ua": "Розробник ігор на Unity",
+    "isPro": true,
+    "category": "games",
+    "period": "11 месяцев",
+    "color": "#ffa680",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_202522f213005a869ef8fd662fbc8e2f97eb17fc.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-brand-manager/",
+    "ru": "Бренд-менеджер",
+    "ua": "Бренд-менеджер",
+    "isPro": true,
+    "category": "marketing",
+    "period": "10 месяцев",
+    "color": "#fff8e5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_59f03635edb5d4674e595c85998beebbee8b5619.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sports-podcaster/",
+    "ru": "Спортивный подкастер",
+    "ua": "Спортивний подкастер",
+    "isPro": true,
+    "category": "games",
+    "period": "7 месяцев",
+    "color": "#90ddff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_36500c21d76f614a661f2a38ae74c46dfb6f2a51.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-devops-pro/",
+    "ru": "DevOps-инженер PRO",
+    "ua": "DevOps-інженер PRO",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#facf6d",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2c54a4f97ffe35b963f934d8b27c7fe0ad1750f2.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cg-generalist/",
+    "ru": "CG-дженералист",
+    "ua": "CG-дженераліст",
+    "isPro": true,
+    "category": "games",
+    "period": "24 месяца",
+    "color": "#ffce1a",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ea29e87f7b97a9c23308c3eeabf62cd7a2754aa4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-editor/",
+    "ru": "Редактор с нуля до PRO",
+    "ua": "Редактор з нуля до PRO",
+    "isPro": true,
+    "category": "marketing",
+    "period": "21 месяц",
+    "color": "#fcda81",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a5f1c5029b53232190bce3879e050f965c57835e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-manager-skills/",
+    "ru": "Ключевые навыки продакт-менеджера",
+    "ua": "Ключові навички продакт-менеджера",
+    "isPro": true,
+    "category": "management",
+    "period": "11 месяцев",
+    "color": "#ffe5a3",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9554ca8bdd90a7273631456561ac1be65814625b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-artist/",
+    "ru": "Художник компьютерной графики",
+    "ua": "Художник комп'ютерної графіки",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#ffef9e",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e36955255b8b124257d5ea1afac624b00b67d33c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-narrator/",
+    "ru": "Ведущий видеоблога",
+    "ua": "Ведучий відеоблогу",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "6 месяцев",
+    "color": "#feb942",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c23f45f3f2cfba9d6db77ac6ff550971af6a91f5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-marketolog-middle-senior/",
+    "ru": "Интернет-маркетолог от middle до senior",
+    "ua": "Інтернет-маркетолог від middle до senior",
+    "isPro": true,
+    "category": "marketing",
+    "period": "19 месяцев",
+    "color": "#87b7e5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9df45cc97514dbf7e2e616e6b3322c1ad8a0a1fe.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-digital-sales/",
+    "ru": "Digital-агентство: открытие, продвижение и продажи",
+    "ua": "Digital-агентство: відкриття, просування та продаж",
+    "isPro": true,
+    "category": "management",
+    "period": "14 месяцев",
+    "color": "#9ec9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4f4a1d14b1b52729a7784b4109396293cc154b44.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fullstack-js/",
+    "ru": "Fullstack-разработчик на JavaScript",
+    "ua": "Fullstack-розробник на JavaScript",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffe64b",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9567df25c360d949e492c6afcb047f9878baa2b3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-product-designer/",
+    "ru": "Продуктовый дизайнер",
+    "ua": "Продуктовий дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "16 месяцев",
+    "color": "#ffe24d",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5243354454db28274b6adc3437473502417f9088.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/game-market-analyst-new/",
+    "ru": "Маркетинговые коммуникации в игровой индустрии",
+    "ua": "Маркетингові комунікації в ігровій індустрії",
+    "isPro": true,
+    "category": "marketing",
+    "period": "9 месяцев",
+    "color": "#b8f4ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9f1bcb7f5adf4e5e74991689a4c8d8256441da8e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fullstack-php/",
+    "ru": "Fullstack-разработчик на PHP",
+    "ua": "Fullstack-розробник на PHP",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#94bfff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_62f01151670d0e3f00a7099b2501ac2e043a2314.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-florist/",
+    "ru": "Флорист",
+    "ua": "Флорист",
+    "isPro": true,
+    "category": "design",
+    "period": "10 месяцев",
+    "color": "#e3afaf",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_aa926579ecae64e823e4cc97527d5abc5d0d4a5f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-vr-ar/",
+    "ru": "Разработчик VR&AR",
+    "ua": "Розробник VR&AR",
+    "isPro": true,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#bcd7ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4223fa2946d745720d4d2b7494a9e0baf1795276.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-smm-middle-senior/",
+    "ru": "SMM от Middle до Senior",
+    "ua": "SMM від Middle до Senior",
+    "isPro": true,
+    "category": "marketing",
+    "period": "9 месяцев",
+    "color": "#b3d7f2",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_76d0568633b5e33319c82f242e0c1ae5ba809975.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-c-sharp/",
+    "ru": "‌С#-разработчик‌",
+    "ua": "‌С#-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#81e3f0",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9d6b6453a2e5702f3848771f0bb79eda7566a530.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fullstack-designer/",
+    "ru": "Fullstack-дизайнер",
+    "ua": "Fullstack-дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "24 месяца",
+    "color": "#fcd2e8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_94925907157b3fde66112179bcae3679ec6eb460.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-concept-art/",
+    "ru": "Концепт-художник",
+    "ua": "Концепт-художник",
+    "isPro": true,
+    "category": "games",
+    "period": "8 месяцев",
+    "color": "#bbb9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9fdd95e70d5448470e6cc9925777cdbbbe8348f5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-content-marketer/",
+    "ru": "Контент-маркетолог с нуля до PRO",
+    "ua": "Контент-маркетолог з нуля до PRO",
+    "isPro": true,
+    "category": "marketing",
+    "period": "14 месяцев",
+    "color": "#d4b9ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_da43b8d1cee077ba4153121b9169315cc0cb9224.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-php/",
+    "ru": "‌PHP-разработчик‌",
+    "ua": "PHP-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#bbf5ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e575e19b1904b69b7e1890dc6ecb1caeacdb2e00.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-brand-designer/",
+    "ru": "Бренд-дизайнер",
+    "ua": "Бренд-дизайнер",
+    "isPro": true,
+    "category": "design",
+    "period": "24 месяца",
+    "color": "#ffb5bb",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2d83c3599c8069a62a71dcf42fc99c47e6b305de.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/unreal-engine-4/",
+    "ru": "Middle-разработчик на Unreal Engine 4",
+    "ua": "Middle-розробник на Unreal Engine 4",
+    "isPro": true,
+    "category": "games",
+    "period": "14 месяцев",
+    "color": "#d298ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7a85c8ebd4e8c857feec7eb00c1007f41c78b22f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/internet-marketolog-pro/",
+    "ru": "Интернет-маркетолог с нуля до PRO",
+    "ua": "Інтернет-маркетолог з нуля до PRO",
+    "isPro": true,
+    "category": "marketing",
+    "period": "10 месяцев",
+    "color": "#3aa2f7",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_afc084a97006d214297ce134f7525a5d85f66bd4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-devops/",
+    "ru": "DevOps-инженер",
+    "ua": "DevOps-інженер",
+    "isPro": true,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#80caf2",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_337dbdc9f6d41e52e68b44c8522ce96cdfb971d8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/designing-modeling-sewing/",
+    "ru": "Пошив одежды с нуля до PRO",
+    "ua": "Пошив одягу з нуля до PRO",
+    "isPro": true,
+    "category": "design",
+    "period": "14 месяцев",
+    "color": "#f2cece",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0e943a83ee5a3053fb61297fc0215fcdfad0315d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cybersport-interruptor/",
+    "ru": "Комментатор в киберспорте",
+    "ua": "Коментатор в кіберспорті",
+    "isPro": true,
+    "category": "games",
+    "period": "7 месяцев",
+    "color": "#ffd952",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ca43d05330d908e97da9cdf3ddc568e9062bd16d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/itrecruiter/",
+    "ru": "IT-рекрутер",
+    "ua": "IT-рекрутер",
+    "isPro": true,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#a5efc3",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7741c95f8625a985af079c4cd7181003fd615c2e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-ad-photographer/",
+    "ru": "Коммерческий фотограф с нуля",
+    "ua": "Комерційний фотограф з нуля",
+    "isPro": true,
+    "category": "design",
+    "period": "16 месяцев",
+    "color": "#e8d9f8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c22b5cda60d5d986b7bc09330c517d9c3019a515.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/dota-2-academy-new/",
+    "ru": "Академия Dota 2",
+    "ua": "Академія Dota 2",
+    "isPro": true,
+    "category": "games",
+    "period": "6 месяцев",
+    "color": "#c5bcff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0b43017556a6efcf1f9a1ca0d58a570451db274a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-cross-platform-mobile-developer/",
+    "ru": "Разработчик кросс-платформенных мобильных приложений",
+    "ua": "Розробник кроссплатформенних мобільних додатків",
+    "isPro": true,
+    "category": "programming",
+    "period": "14 месяцев",
+    "color": "#d2ebfc",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_24ac61b9f3b96df7e1c5263ebfe4573425addfd0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-jewel-3d-modeller/",
+    "ru": "Ювелирный 3D-моделлер",
+    "ua": "Ювелірний 3D-моделлер",
+    "isPro": true,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffd1b6",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7db73989bc1d58b80ecfd545533a997695c8d628.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-mobdev/",
+    "ru": "Разработчик мобильных приложений",
+    "ua": "Розробник мобільних додатків",
+    "isPro": true,
+    "category": "programming",
+    "period": "24 месяца",
+    "color": "#f6cdc8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e62b7eb2374a9955a5a65a652f8d0c8b6e613f39.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fashion-producer/",
+    "ru": "Продюсер в Fashion",
+    "ua": "Продюсер в Fashion",
+    "isPro": true,
+    "category": "design",
+    "period": "12 месяцев",
+    "color": "#eee98d",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_92afec7468dc1cc6059537dfb46bdd4b7c9aabe5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-landscape-designer-spaces/",
+    "ru": "Ландшафтный дизайнер частных и общественных пространств",
+    "ua": "Ландшафтний дизайнер приватних і громадських просторів",
+    "isPro": true,
+    "category": "design",
+    "period": "18 месяцев",
+    "color": "#b1d3d0",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f1d3f9de0f790bf5282329e834dd99a8fe964816.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-retoucher/",
+    "ru": "Ретушёр",
+    "ua": "Ретушер",
+    "isPro": true,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#b0b1f8",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ff2692f211785741250bb2697216c6949ee90ffc.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fashion-marketer/",
+    "ru": "Маркетинг для fashion-брендов",
+    "ua": "Маркетинг для fashion-брендів",
+    "isPro": true,
+    "category": "design",
+    "period": "20 месяцев",
+    "color": "#ead7c5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fe29336e6183b0071583ca08cd3c68220713dcc7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-academy-csgo/",
+    "ru": "Академия CS:GO",
+    "ua": "Академія CS:GO",
+    "isPro": true,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffb950",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_36608242e9fb6c28eb655159dc88b52c76d7c695.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/esports-management/",
+    "ru": " Менеджмент в киберспорте",
+    "ua": "Менеджмент в кіберспорті",
+    "isPro": true,
+    "category": "games",
+    "period": "16 месяцев",
+    "color": "#e6c7ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c154272e9e2bf2208d37cf8e7f23eb9272d5cd1d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-3d-environment-artist/",
+    "ru": "3D-художник окружения с нуля до PRO",
+    "ua": "3D-художник оточення з нуля до PRO",
+    "isPro": true,
+    "category": "games",
+    "period": "16 месяцев",
+    "color": "#fdf9d2",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5cbc20e735b678e226b2e4c8f33002c0566d076e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-characters-3d/",
+    "ru": " Персонажи 3D с нуля до PRO",
+    "ua": "Персонажі 3D з нуля до PRO",
+    "isPro": true,
+    "category": "games",
+    "period": "20 месяцев",
+    "color": "#fef1d1",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_194e312d70783710d2957c477b776fd290ba30e2.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-cameraman/",
+    "ru": "Оператор",
+    "ua": "Оператор",
+    "isPro": true,
+    "category": "multimedia",
+    "period": "10 месяцев",
+    "color": "#5af2a4",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d2b472d58f30d6c2932b746bb80e4b93ce56866b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/go-developer-pro/",
+    "ru": "Go-Разработчик PRO",
+    "ua": "Go-Розробник PRO",
+    "isPro": true,
+    "category": "programming",
+    "period": "8 месяцев",
+    "color": "#3f2aff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ab2179dfb446b38055ac3f6093d5ade2140991f1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fashion-stylist/",
+    "ru": "Fashion-стилист",
+    "ua": "Fashion-стиліст",
+    "isPro": true,
+    "category": "design",
+    "period": "10 месяцев",
+    "color": "#d7dae5",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e18fdf38aa5073943c6e144e3a2f8c7596b59f5f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-fashion-photographer/",
+    "ru": "Fashion-фотограф",
+    "ua": "Fashion-фотограф",
+    "isPro": true,
+    "category": "design",
+    "period": "17 месяцев",
+    "color": "#fbded3",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d85c27c093542759b9cc53d809fb08bc50977801.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/strategy-development-in-uncertainty/",
+    "ru": "Разработка стратегии в условиях неопределенности",
+    "ua": "Розробка стратегії в умовах невизначеності",
+    "isPro": false,
+    "category": "-",
+    "period": "9 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3632cc004d9810aa5f90a09b4a8679e106a43f95.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-narrative-designer/",
+    "ru": "Нарративный дизайнер",
+    "ua": "Наративний дизайнер",
+    "isPro": true,
+    "category": "games",
+    "period": "8 месяцев",
+    "color": "#fcfad1",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e000d754ff69833961dc7be4645abf02f067b003.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-game-analytic/",
+    "ru": "Игровой аналитик",
+    "ua": "Ігровий аналітик",
+    "isPro": true,
+    "category": "games",
+    "period": "18 месяцев",
+    "color": "#c7f0fb",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_31ea9dc8b98a7a6491ad43d4f2672aa865db3051.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/excel-gsheets/",
+    "ru": "Excel + Google Таблицы с нуля до PRO",
+    "ua": "Excel + Google Таблиці з нуля до PRO",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b609db3df74c3b33f9819476d65eef1ed431af6f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/internet-marketolog/",
+    "ru": "Интернет-маркетолог с нуля",
+    "ua": "Інтернет-маркетолог з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b08fcc479b7b36a9cd05037cc2ebc36c45ae5ac0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cutting-sewing/",
+    "ru": "Кройка и шитьё",
+    "ua": "Крій та шиття",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_394fc3538994ffbb9667d0b6a05fdf502bf99447.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/filmmaking/",
+    "ru": "Основы видеопроизводства",
+    "ua": "Основи відеовиробництва",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fa18b38cc2058309af5749190a78220c9578ff46.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/devops/",
+    "ru": "Старт в DevOps:\nсистемное администрирование\nдля начинающих",
+    "ua": "Старт в DevOps:\nсистемне адміністрування\nдля початківців",
+    "isPro": false,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bd5c75285fc4a318ae23886b16f51b2b110ea1b1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/educational-methodist/",
+    "ru": "Методист образовательных программ",
+    "ua": "Методист освітніх програм",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1dbfab28c5c1132e78f99d721a1a1f65befbc3cd.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/smm-marketer/",
+    "ru": "SMM-специалист с нуля",
+    "ua": "SMM-фахівець з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fd0a9d46dd7671a3a182fdee1a739bb31677033c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/webdesign-pro/",
+    "ru": "Веб-дизайн с нуля до PRO",
+    "ua": "Веб-дизайн з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7da54ede15e52c60f0646bbc7bbff63731a16063.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/storytelling/",
+    "ru": "Сторителлинг",
+    "ua": "Сторітеллінг",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b0d7b60ba9563bffcd89be1c5c0520e27ac1f3fd.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/aiphil/",
+    "ru": "Философия искусственного интеллекта",
+    "ua": "Філософія штучного інтелекту",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_63d205247ebed13fc7ac8a975cb4370e90dd41e7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/financial-analyst/",
+    "ru": "Финансовый аналитик",
+    "ua": "Фінансовий аналітик",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_242c8250d5920c236d935c57c4c13457b6fc6515.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/targetologist/",
+    "ru": "Таргетолог с нуля",
+    "ua": "Таргетолог з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d089bae4786cbc43d064805e41697982bfb51c9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/motion-design/",
+    "ru": "Motion-дизайн с нуля до PRO",
+    "ua": "Motion-дизайн з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7a89dd0aea2058c46f7b730bd11d4fca3a0d320e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/3d/",
+    "ru": "3D-моделирование для начинающих",
+    "ua": "3D-моделювання для початківців",
+    "isPro": false,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a334a2f1add1421c6f9cfa65e1664869680a7a0f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/java/",
+    "ru": "Java-разработчик",
+    "ua": "Java-розробник",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bb816ae9306d05d8a35f0bf956129c4138c0a2b1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sportmanagement/",
+    "ru": "Менеджмент и маркетинг в индустрии спорта",
+    "ua": "Менеджмент і маркетинг в індустрії спорту",
+    "isPro": false,
+    "category": "games",
+    "period": "12 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_44e7d62f39c293d05c4f7bb0529e9914f29b15eb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/instagram/",
+    "ru": "Продвижение в Instagram",
+    "ua": "Просування в Instagram",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7cecb1893fbab10f8b4c2655f356e1c8b2bd502d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/interiordesign-pro/",
+    "ru": "Дизайн интерьеров с нуля до PRO",
+    "ua": "Дизайн інтер'єрів з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1c003ade260db1cbd7b251730910723eff1e9699.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/data-analyst/",
+    "ru": "Аналитик данных с нуля",
+    "ua": "Аналітик даних з нуля",
+    "isPro": false,
+    "category": "management",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9845ca09682ec55857a27600362fc03fb239fad9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/copywriter/",
+    "ru": "Копирайтинг от А до Я",
+    "ua": "Копірайтинг від А до Я",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ac40831190c0a689d66aaa74072e21159a8566a4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/illustrator-start/",
+    "ru": "Коммерческая иллюстрация с нуля до PRO",
+    "ua": "Комерційна ілюстрація з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a9d2d99cdfad66d83b444ce3d846681ad2a130d7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/film-editor-base/",
+    "ru": "Основы монтажа",
+    "ua": "Основи монтажу",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7b25012b211c3c5e3557832be043ec3af5f3c8f8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/weblayout/",
+    "ru": "Веб-вёрстка",
+    "ua": "Веб-верстка",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4d7fa8169d0187e10fb07ccef1637952b76730f8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/producer/",
+    "ru": "Продюсер онлайн-курсов",
+    "ua": "Продюсер онлайн-курсів",
+    "isPro": false,
+    "category": "management",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_73832abfdbb596570cec80f418fd7e264518b19e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/seo/",
+    "ru": "SEO-специалист от AMDG",
+    "ua": "SEO-спеціаліст від AMDG",
+    "isPro": false,
+    "category": "marketing",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_266da9c99ff518888beaeb394fa364325afb4519.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/interior-business-course/",
+    "ru": "Бизнес-курс для дизайнеров интерьера",
+    "ua": "Бізнес-курс для дизайнерів інтер'єру",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_db57e3459384c9480c8985117779539e70254611.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sql-developer/",
+    "ru": "SQL-разработчик",
+    "ua": "SQL-розробник",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_806841abe777526c2ea10d5d52eefa6470701b57.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/msoffice/",
+    "ru": "MS Office и инструменты Google",
+    "ua": "MS Office і інструменти Google",
+    "isPro": false,
+    "category": "management",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9065c3651c6ba77c0b36e2175d4d1868adc51e5a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/prmanager/",
+    "ru": "PR-менеджер от PRT",
+    "ua": "PR-менеджер від PRT",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_26c5574c151c5d28a1c36c7b53e2b7d0fefbe5d1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/graphic-design/",
+    "ru": "Графический дизайнер с нуля до PRO",
+    "ua": "Графічний дизайнер з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3466483566d88039bcd62e58681b6937e0e15fbe.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/film-editor-davinci/",
+    "ru": "Монтаж в DaVinci",
+    "ua": "Монтаж в DaVinci",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_883e8709f96d001774a080bab72e157c79c3df10.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/software-architect/",
+    "ru": "Архитектор ПО",
+    "ua": "Архітектор ПЗ",
+    "isPro": false,
+    "category": "programming",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_730f1b0a62e2e03cb9490d0010b3a78daf5043ed.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/beauty-industry/",
+    "ru": "Менеджмент в индустрии красоты",
+    "ua": "Менеджмент в індустрії краси",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b882de9ae02e85d7d59d86b1cac99378ba71e942.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/brand-manager/",
+    "ru": "Бренд-менеджер",
+    "ua": "Бренд-менеджер",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_62f9644fd59be8af99011aa839787b5c668d2fa8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ux-designer/",
+    "ru": "UX-дизайнер с нуля до PRO",
+    "ua": "UX-дизайнер з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6025ee207ebdcf874be83e0807d12894f09eba54.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/film-editor-pro/",
+    "ru": "Уровень PRO. Монтаж в кино",
+    "ua": "Рівень PRO. Монтаж в кіно",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f4420a0e83ac466fed17539ae1025c5d3916476c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/powerbi/",
+    "ru": "Power BI",
+    "ua": "Power BI",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6858ed69852df1ac4537a331f9868fc69f5b1b67.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/team-management/",
+    "ru": "Управление командами",
+    "ua": "Управління командами",
+    "isPro": false,
+    "category": "management",
+    "period": "3,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bff548be92625ba798bdc354a9f92f39f5cc54b8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/mobile-apps-analyst/",
+    "ru": "Аналитик мобильных приложений",
+    "ua": "Аналітик мобільних додатків",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0c9df4451dfd3d4fec0b3afea1483cc13ccb0344.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/photoshoppro/",
+    "ru": "Photoshop с нуля до PRO",
+    "ua": "Photoshop з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c199109095304f816873d8894f43e6199880ec61.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/streamer/",
+    "ru": "Стример",
+    "ua": "Стрімер",
+    "isPro": false,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_67d030325ce2af771404f8558251ebe45bbfe4a6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/frontend-developer/",
+    "ru": "Frontend-разработчик",
+    "ua": "Frontend-розробник",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_43afbe9d1ec41aee8065059cf6131387347a0dd5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/presentation-master/",
+    "ru": "Мастер презентации и публичных выступлений",
+    "ua": "Майстер презентації та публічних виступів",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1c6510b5b1d99ebba7e968e93fb38a0d4b6570c6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/context-advert/",
+    "ru": "Контекстная реклама с нуля",
+    "ua": "Контекстна реклама з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_65f7846966d5f4a06083cc5e6c35fb9e7606107e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/landscape-design/",
+    "ru": "Ландшафтный дизайн с нуля",
+    "ua": "Ландшафтний дизайн з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f7c4022903461313aa60a46ab8a3181a7706f6b9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/vr-dev-unreal/",
+    "ru": "VR-разработчик на Unreal Engine 4",
+    "ua": "VR-розробник на Unreal Engine 4",
+    "isPro": false,
+    "category": "games",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3a63a42c6ac5deecb25e2fcfdbc639fb412f24f0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sql-analysis/",
+    "ru": "SQL для анализа данных",
+    "ua": "SQL для аналізу даних",
+    "isPro": false,
+    "category": "programming",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6d9477436a1ecca4e6cdba9c95498bb238ecf0ff.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/blogger/",
+    "ru": "Как делать контент для YouTube",
+    "ua": "Як робити контент для YouTube",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b09786c06ec3408d3c9cd2a80d9ba891fe4e64b7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/photography-basics/",
+    "ru": "Фотография с нуля",
+    "ua": "Фотографія з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6d92a6b81b4e7062271dc73d88f0c02f7fa70dad.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ue4-videoproduction/",
+    "ru": "Видеопродакшн в Unreal Engine 4",
+    "ua": "Відеопродакшн в Unreal Engine 4",
+    "isPro": false,
+    "category": "games",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a8565e1847c05ab030dcedcab56a00142f65e1cf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cybersecurity/",
+    "ru": "Специалист по кибербезопасности",
+    "ua": "Спеціаліст з кібербезпеки",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_53cfba1ab948f8a84b0618d029d72ff5cb0ca06e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-management/",
+    "ru": "Управление продуктом",
+    "ua": "Управління продуктом",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_520978a8ab136de509dfe4483489c1a4e0b7ff78.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/web-analyst/",
+    "ru": "Веб-аналитик с нуля до Junior",
+    "ua": "Веб-аналітик з нуля до Junior",
+    "isPro": false,
+    "category": "marketing",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_44ae34cbf63bf20f23ccceb7406b583af65d1b6b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-designer/",
+    "ru": "Дизайнер одежды",
+    "ua": "Дизайнер одягу",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e85a6052eb757066d337c3b903aa74219b314af3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/2d-graphics/",
+    "ru": "Основы 2D-графики",
+    "ua": "Основи 2D-графіки",
+    "isPro": false,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_72812dab442ed3653fd81f78b864935d698c8bbb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/vue-js/",
+    "ru": "Фреймворк Vue.js",
+    "ua": "Фреймворк Vue.js",
+    "isPro": false,
+    "category": "programming",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_25be41216909cfc3e2af61ee4f63aa5d3089997a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/music-manager/",
+    "ru": "Музыкальный менеджер",
+    "ua": "Музичний менеджер",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4280e43b6ab85f950b81ec1f4be9d2170943f145.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/commercial-editor/",
+    "ru": "Коммерческий редактор",
+    "ua": "Комерційний редактор",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4f0569998c273e7f38e6df80a3c2c4a784b2b77d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/film-editor-advanced/",
+    "ru": "Продвинутый монтаж",
+    "ua": "Високий рівень монтажу",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d483257a9638163fce5bc5486b14817dd013d65.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/autotesting-java/",
+    "ru": "Автоматизированное тестирование на Java",
+    "ua": "Автоматизоване тестування на Java",
+    "isPro": false,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1ec0ff9cbeb0463bb50d82ddc3c61b9e58f9e4a9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/finance/",
+    "ru": "Финансовая грамотность",
+    "ua": "Фінансова грамотність",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_854e0b3bb39defd5020cc4bc2118efd185785797.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-marketer/",
+    "ru": "Продуктовый маркетолог",
+    "ua": "Продуктовий маркетолог",
+    "isPro": false,
+    "category": "marketing",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3db49c4c7e590ca541eb23afd2bdb01eebcc744f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/logodesign/",
+    "ru": "Дизайнер логотипа и фирменного стиля",
+    "ua": "Дизайнер логотипу і фірмового стилю",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b8f18516f7aa13519aa15c32a5a81ea32f4a9bb3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/2d-pro/",
+    "ru": "2D PRO",
+    "ua": "2D PRO",
+    "isPro": false,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_25c81d3733bd5fe83594ec17b41aef27e21784f0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/flutter/",
+    "ru": "Flutter",
+    "ua": "Flutter",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d5ee71be4ae556992ab925dd4fce587e49fd8644.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-english/",
+    "ru": "Деловая переписка на английском языке",
+    "ua": "Ділове листування англійською мовою",
+    "isPro": false,
+    "category": "management",
+    "period": "10 недель",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d78519230c407a3deb1964c84ee2b0f562c1fc4d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/internet-marketer-pro/",
+    "ru": "Интернет-маркетолог PRO",
+    "ua": "Інтернет-маркетолог PRO",
+    "isPro": false,
+    "category": "marketing",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fe59c6525d9ad0f5143e181cb91c5d71ad111f9e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sketching/",
+    "ru": "Скетчинг для дизайнеров",
+    "ua": "Скетчінг для дизайнерів",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5e8bcd9458419b243fd0b90c73190ea87b0ffaa8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/game-industry-introduction/",
+    "ru": "Введение в игровую индустрию",
+    "ua": "Введення в ігрову індустрію",
+    "isPro": false,
+    "category": "games",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_abcc4ee0b6cdc94895ccd1e9a54cc460a09ad863.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/python-basic/",
+    "ru": "Python-разработчик",
+    "ua": "Python-розробник",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_aa8d1e08f5b4c5deaa9b6a776fb12cc1e5ca5a53.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/businessman-finance/",
+    "ru": "Финансы для предпринимателя",
+    "ua": "Фінанси для підприємця",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fad42ba35e7cd46a7ec69632a9d760166d4f6ac1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/reputation/",
+    "ru": "Управление репутацией бренда в сети",
+    "ua": "Управління репутацією бренду в мережі",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1e67de83844a68db5cedd6250e034f66b0d54f46.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/decoration/",
+    "ru": "Декорирование в дизайне интерьера",
+    "ua": "Декорування в дизайні інтер'єру",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9a7c07ffd6b72f0f0760a1e86d9fa9c106bbaa90.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/java-framework-spring/",
+    "ru": "Java-фреймворк Spring",
+    "ua": "Java-фреймворк Spring",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_13638d804e71f6e97eb128e69a8680d6b913e494.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/hr-analyst/",
+    "ru": "HR-аналитика с нуля",
+    "ua": "HR-аналітика з нуля",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_959a1cc4d4c6bbee848cff81657bafde01a30e14.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ecommerce/",
+    "ru": "Запуск и продвижение интернет-магазина с нуля",
+    "ua": "Запуск і просування інтернет-магазину з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c69021551b38e0644dce2e1af667859f4c1388c8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/electronic-music/",
+    "ru": "Электронная музыка с нуля до PRO",
+    "ua": "Електронна музика з нуля до PRO",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_473d6b649e96a6427a5c5d0c6d8d82dd04c220b7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/mobile-testing/",
+    "ru": "Тестирование мобильных приложений",
+    "ua": "Тестування мобільних додатків",
+    "isPro": false,
+    "category": "programming",
+    "period": "9 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2675030b98449a6ac9ddbef27791c7cb9e1e7e86.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-strategy/",
+    "ru": "Бизнес-стратегия",
+    "ua": "Бізнес-стратегія",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_db7df70df28c32106c58e7ab74b397e22894fedb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/event-manager/",
+    "ru": "Event-менеджер с нуля",
+    "ua": "Event-менеджер з нуля",
+    "isPro": false,
+    "category": "marketing",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_eb919054d2d2e39be33a445d45e9ac6e3c854c68.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sound-designer/",
+    "ru": "Sound Design с нуля до PRO",
+    "ua": "Sound Design з нуля до PRO",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a25b6266d31fbf3aeccaab99eb9b11dc81bd6bee.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/django-framework/",
+    "ru": "Python-фреймворк Django",
+    "ua": "Python-фреймворк Django",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4cc1caf3a325f929a8fd34213e844f91ba289576.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/hr-manager/",
+    "ru": "HR-менеджер с нуля",
+    "ua": "HR-менеджер з нуля",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_32c6783a650459e8952f9f8c34774eb0b69cff37.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/tilda/",
+    "ru": "Дизайнер сайтов на Tilda",
+    "ua": "Дизайнер сайтів на Tilda",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7fe3165c54030cc65a20a585a5572533ba49dcb7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/r-analysis/",
+    "ru": "Язык R для анализа данных",
+    "ua": "Мова R для аналізу даних",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b21e048f0ca8de9f51194850593d902e5719c4ff.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/art-management/",
+    "ru": "Арт-менеджмент",
+    "ua": "Арт-менеджмент",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_085ff5f9dd8c403323c4feef7e3d6858486c46ed.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/influence-marketing/",
+    "ru": "Influencer marketing manager",
+    "ua": "Influencer marketing manager",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ea6f01eabcafc01032cd097c566f06f61f6ce032.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/after-effects/",
+    "ru": "After Effects с нуля до PRO",
+    "ua": "After Effects з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c6cae1a64c1a580c462a77912a2a67b7b50df347.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/react-js/",
+    "ru": "JavaScript-фреймворк React.js",
+    "ua": "JavaScript-фреймворк React.js",
+    "isPro": false,
+    "category": "programming",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6fd841b10dcae0587b45106923b6e9be1f702e14.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-analyst/",
+    "ru": "Системный аналитик с нуля",
+    "ua": "Системний аналітик з нуля",
+    "isPro": false,
+    "category": "management",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d588d5bd267c62b65484500b4b2f54c10270061e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/creative-marketing/",
+    "ru": "Креативная реклама",
+    "ua": "Креативна реклама",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d813899537d69b8076e6e24fbbaf10fdf0504a25.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/3d-max/",
+    "ru": "3ds Max для дизайнеров интерьера",
+    "ua": "3ds Max для дизайнерів інтер'єру",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_46a0025619179bd8867b7e83db994efc09415b03.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/math-for-data-science/",
+    "ru": "Основы математики для Data Science",
+    "ua": "Основи математики для Data Science",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_cf8b76e87494c50291ef8a4eba49f12163aa6044.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/community-management/",
+    "ru": "Как создать сообщество и управлять им",
+    "ua": "Як створити співтовариство і керувати ним",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6f3602e2e15b7a6a4eefd7ed3d68328ce3638d1d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/performance-mark/",
+    "ru": "Performance-маркетинг",
+    "ua": "Performance-маркетинг",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_99318fc7727d02a8f796fd5ead8946e99d17592b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-brand/",
+    "ru": "Продвижение фэшн-бренда",
+    "ua": "Просування фешн-бренду",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_61999e63808f39421a5f7bc3aee0a9a2362b99da.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/nodejs/",
+    "ru": "Node.js",
+    "ua": "Node.js",
+    "isPro": false,
+    "category": "programming",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_277f3a768156a99074d40485b1d99bfb89e0885e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/powerpoint-gslides/",
+    "ru": "PowerPoint + Google Презентации",
+    "ua": "PowerPoint + Google Презентації",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8e9989427ef21d1c1359d72f42bed8c6242ac1ee.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/content-marketing/",
+    "ru": "Основы контент-маркетинга",
+    "ua": "Основи контент-маркетингу",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_312d43e34ea05727f2bc2964b8cd16b445967baf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/zbrush/",
+    "ru": "3D-моделирование в ZBrush с нуля",
+    "ua": "3D-моделювання в ZBrush з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b87d28e4faf547642bc34fa751d17fd8897f0e90.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/symfony/",
+    "ru": "PHP-фреймворк Symfony",
+    "ua": "PHP-фреймворк Symfony",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_76bc1162fb8c2a674e7d9100a840ac54f88d143a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/online-curator/",
+    "ru": "Куратор онлайн-курсов",
+    "ua": "Куратор онлайн-курсів",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_38f47300143defdfad97520e570079e1bf533046.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/messenger-marketing/",
+    "ru": "Мессенджер-маркетинг от Intellect Dialog",
+    "ua": "Месенджер-маркетинг від Intellect Dialog",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_368caeae04d920480099d10f746260a77cf0889a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-designer/",
+    "ru": "Продуктовый дизайнер",
+    "ua": "Продуктовий дизайнер",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fec5fae4d46467f30405fc52072a96213ee31263.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/javascript/",
+    "ru": "JavaScript",
+    "ua": "JavaScript",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9ff3a237ec201e9eb1a5ce44468857e1c0d63aa6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/emotional-intelligence/",
+    "ru": "Эмоциональный интеллект и лидерство",
+    "ua": "Емоційний інтелект і лідерство",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a38403d9ffa825fa6f66efb94359a2b3a28b0744.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/crm-marketolog/",
+    "ru": "CRM-маркетолог",
+    "ua": "CRM-маркетолог",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d49f9c3e6e9ad4985acd605064fd9ba27109396.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/advert-photography/",
+    "ru": "Рекламная фотография",
+    "ua": "Рекламна фотографія",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a1f12586a961f27d2b5ebbfea8e96ba2871286e0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/tableau/",
+    "ru": "Tableau",
+    "ua": "Tableau",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9408beb876646b32b078cbe14cdd52c7f9d8ce24.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/accounting-and-taxes/",
+    "ru": "Бухучет и налоги",
+    "ua": "Бухоблік і податки",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c9c0e5726bf85419b40116243738715fb42d4539.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/marketing-for-business/",
+    "ru": "Маркетинг для предпринимателей",
+    "ua": "Маркетинг для підприємців",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c3deaf52b642065c6a3e3668a180e3fd99b17465.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/jewelry-design/",
+    "ru": "Дизайн‌ ‌ювелирных‌ ‌украшений‌",
+    "ua": "Дизайн ювелірних прикрас",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_55c8cdc217d9b18c7445870dc7919697dee169b2.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/bash/",
+    "ru": "Работа в командной строке Bash",
+    "ua": "Робота в командному рядку Bash",
+    "isPro": false,
+    "category": "programming",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a2583c81281ba0a582a21d6097b36d6335217fb1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/finance-non-financier/",
+    "ru": "Финансы для нефинансистов",
+    "ua": "Фінанси для нефінансистів",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f6306617a4c2c15f62f689e08e669cee0b084ad0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cx-researches/",
+    "ru": "CX-исследования",
+    "ua": "CX-дослідження",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c221d52cddfb97e0a609f62b671ec21ebcd4da2c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ableton-live/",
+    "ru": "Ableton Live c нуля до PRO",
+    "ua": "Ableton Live з нуля до PRO",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6919cc27d39497d7a3eafed755ffd638a6fab398.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/algorithms-for-developers/",
+    "ru": "Алгоритмы и структуры данных для разработчиков",
+    "ua": "Алгоритми і структури даних для розробників",
+    "isPro": false,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d29cbf45351f710b1c557f8c874a23aaf1faee70.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/effective-conversation/",
+    "ru": "Эффективные переговоры",
+    "ua": "Ефективні перемовини",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9000ed59032d4c810474a9b17f964c1016fea743.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/b2b-marketing/",
+    "ru": "Маркетинг для B2B",
+    "ua": "Маркетинг для B2B",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7a47a7c2bc6b3131da872319a65d7154e713229e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ipad-illustration/",
+    "ru": "Иллюстрация на iPad",
+    "ua": "Ілюстрація на iPad",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bfc710b502e6efeb94684b9984bfe12b7404173b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/for-it-speaker/",
+    "ru": "Как подготовиться к профессиональной конференции",
+    "ua": "Як підготуватися до професійної конференції",
+    "isPro": false,
+    "category": "programming",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_19e487ade6d5385f154d4e07a4e78fc1a5eb7a62.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-analytics/",
+    "ru": "Продуктовая аналитика",
+    "ua": "Продуктова аналітика",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_de3a8a8546e525510887179a645ec9b6863aba79.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-intelligence-basics-practice/",
+    "ru": "Основы и практика Business Intelligence",
+    "ua": "Основи і практика Business Intelligence",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4edbf14cf86d582f5f66753fbd1cfb0392859275.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/packaging-designer/",
+    "ru": "Дизайнер упаковки",
+    "ua": "Дизайнер пакування\n\n",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_02f253aa9e6fd296d2bb64f00a5b7a32050ed235.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sport-media/",
+    "ru": "Как создавать спортивный контент",
+    "ua": "Як створювати спортивний контент",
+    "isPro": false,
+    "category": "games",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0c3d41d883d83e305ed15bbb1ea1fe5bfc68d1e1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/community-in-social/",
+    "ru": "Комьюнити в соцсетях",
+    "ua": "Ком'юніті в соцмережах",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_301bbdca5d13179b1539f8ff80a9039c7e139472.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/adobe-illustrator/",
+    "ru": "Adobe Illustrator для иллюстрации",
+    "ua": "Adobe Illustrator для ілюстрації",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_caf29bc06b97a1eb4de87a96b444bb19f4c6595e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/big-data-for-managers/",
+    "ru": "Big Data для менеджеров",
+    "ua": "Big Data для менеджерів",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_cfe257413a4fce2512e4add1621cba53b9e5104a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/analytics-management-and-business/",
+    "ru": "Аналитика для руководителей и владельцев бизнеса",
+    "ua": "Аналітика для керівників і власників бізнесу",
+    "isPro": false,
+    "category": "management",
+    "period": "2,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b7fd73738ebb4b75d9702bcfe965f409539d2937.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/end-to-end/",
+    "ru": "Сквозная аналитика",
+    "ua": "Наскрізна аналітика",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_040a3d056e7e2ea1a2d991fa65500efd5dbc6094.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/autocad/",
+    "ru": "AutoCAD с нуля до PRO",
+    "ua": "AutoCAD з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_212edd6d901023ed1ec911e67ccc1995a9d2e21f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/economist-financier/",
+    "ru": "Экономист-финансист",
+    "ua": "Економіст-фінансист",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7f2e19ecac3021e33c32ad0ce3e24ead19a3f046.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/offline-marketing/",
+    "ru": "Медийная реклама: ATL",
+    "ua": "Медійна реклама: ATL",
+    "isPro": false,
+    "category": "marketing",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_dfa0e8147c395e798a771878ad16bcb1ed42fbb1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/figmadesign/",
+    "ru": "Figma 2.0",
+    "ua": "Figma 2.0",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_673b385542b5f0dc0392a9e98c13605cea91c73d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/database-for-programmers/",
+    "ru": "Базы данных для разработчиков",
+    "ua": "Бази даних для розробників",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_daa17f3b26bae326508f11030abcacdf58a0869a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/1c-work/",
+    "ru": "1С:Бухгалтерия 8, редакция 3.0",
+    "ua": "1С: Бухгалтерія 8, редакція 3.0",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4887b855a7fb2fba105933b23ab15f24e4863eb5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/copywriting-for-social/",
+    "ru": "Креативный копирайтинг для соцсетей",
+    "ua": "Креативний копірайтинг для соцмереж",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ddfeda1915f85595f1534f47fbe0ea2d87c14e83.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/php/",
+    "ru": "PHP-разработчик с нуля до PRO",
+    "ua": "PHP-розробник з нуля до PRO",
+    "isPro": false,
+    "category": "programming",
+    "period": "9 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ce951abd44ab705911a1620174e323bb6b8f55a0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sales-management/",
+    "ru": "Управление продажами",
+    "ua": "Управління продажами",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_09f3ed1e500aca85305ec4e36baeacc1c625d816.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/offline-marketing-btl/",
+    "ru": "BTL-маркетинг",
+    "ua": "BTL-маркетинг",
+    "isPro": false,
+    "category": "marketing",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d93b1230262848e5187b91b844a31b769c611ca.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/photographer-retouch/",
+    "ru": "Ретушь для фотографа",
+    "ua": "Ретуш для фотографа",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b500d07d02dddb4527b447e61c70f1c8cb35b694.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/autotesting-javascript/",
+    "ru": "Автоматизированное тестирование веб-приложений на JavaScript",
+    "ua": "Автоматизоване тестування веб-додатків на JavaScript",
+    "isPro": false,
+    "category": "programming",
+    "period": "12 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_50f99ed1fde5fb15fb167a2dee353f32d6c0b727.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/podcast-making/",
+    "ru": "Запуск подкаста с нуля",
+    "ua": "Запуск подкасту з нуля",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_419c326a1a41c9b6e013d8aca7f1cbe90a64d6fd.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/personal-brand/",
+    "ru": "Личный бренд",
+    "ua": "Особистий бренд",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d3c9d65a25c1558000af082d13cdb83c5b52592d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/commercial-design/",
+    "ru": "Дизайн коммерческих интерьеров",
+    "ua": "Дизайн комерційних інтер'єрів",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_be24ebdd4c1d437c963e84b82c38fe555366ca16.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/linux-os-administration/",
+    "ru": "Администрирование ОС Linux",
+    "ua": "Адміністрування ОС Linux",
+    "isPro": false,
+    "category": "programming",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d8a8d716a96d7117fae64a46ded1bc55f0ddafc5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/communication-art/",
+    "ru": "Искусство коммуникации",
+    "ua": "Мистецтво комунікації",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_64a087fc70bb7d900a631f2f904160e942fa6f73.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/trendwatching/",
+    "ru": "Трендвотчинг",
+    "ua": "Трендвотчінг",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fa11f169242abb9f3d959fb2ad09694a359f51c6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/custdev/",
+    "ru": "Customer Development",
+    "ua": "Customer Development",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a5b06956664aeb6e28530fe946a22760769eca9e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/targetpro/",
+    "ru": "Таргетолог PRO",
+    "ua": "Таргетолог PRO",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_69b22cc2deb401d6c46245351504927b8b33f2d9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cpeople/",
+    "ru": "Рекламная графика",
+    "ua": "Рекламна графіка",
+    "isPro": false,
+    "category": "design",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1f6252b504d7e09b8b15facc2a6adba8a570f1e4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/java-ee/",
+    "ru": "Enterprise технологии в Java-разработке",
+    "ua": "Enterprise технології в Java-розробці",
+    "isPro": false,
+    "category": "programming",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4ccbc840d71c2828b3528500121e6f392c626ac1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/time-management/",
+    "ru": "Тайм-менеджмент",
+    "ua": "Тайм-менеджмент",
+    "isPro": false,
+    "category": "management",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e47476195f77e68b845b3b3cd5c976096b64e3fa.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/videomarketing/",
+    "ru": "Видеомаркетинг",
+    "ua": "Відеомаркетінг",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d4fcfb2f9ac6f8eba6788ef803d2722026b4e08c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/furniture-design/",
+    "ru": "Дизайн мебели",
+    "ua": "Дизайн меблів",
+    "isPro": false,
+    "category": "design",
+    "period": "4,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2d6028c5e25dd682d75e20647a26b61b34539f39.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-legal-side/",
+    "ru": "Бизнес и право",
+    "ua": "Бізнес і право",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_34e44caeb6b33b6976a68db55bce70e140705a90.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/digital-strategy/",
+    "ru": "Digital-стратег",
+    "ua": "Digital-стратег",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2a36d55a0d69cdf766ff1558171568328c4e7eb9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-sketching/",
+    "ru": "Fashion-скетчинг",
+    "ua": "Fashion-скетчінг",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4cff52841a923718a8fbf681945f5b72f17acbd0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/risk-management/",
+    "ru": "Управление рисками",
+    "ua": "Управління ризиками",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_aa6f44eeccc1c43f1e11c2fe34a937ae098d28e3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/interior-sketching/",
+    "ru": "Скетчинг для дизайнеров интерьера",
+    "ua": "Скетчінг для дизайнерів інтер'єру",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b7f72f88e4bbf9fe052af6a24856eef6a1de8dc6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/digital-sales/",
+    "ru": "Продвижение и продажи в digital-агентстве",
+    "ua": "Просування і продажі в digital-агентстві",
+    "isPro": false,
+    "category": "management",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0129d2429779686e758cd1198c56c253453eb5fd.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/cinema4d/",
+    "ru": "Cinema 4D",
+    "ua": "Cinema 4D",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4e14abb263d73e643b5532f38e5243b8542078d0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/digital-agency/",
+    "ru": "Как открыть digital-агентство",
+    "ua": "Як відкрити digital-агентство",
+    "isPro": false,
+    "category": "management",
+    "period": "3,5 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_227e4143aff4a812cd9ac93b390788a1603befa7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/app-design-pro/",
+    "ru": "Дизайн мобильных приложений с нуля до PRO",
+    "ua": "Дизайн мобільних додатків з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "8 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_aceb7acd87ef23b467eb1815b1deab6e867f77f9.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/operational-management/",
+    "ru": "Операционный менеджмент и непрерывные улучшения",
+    "ua": "Операційний менеджмент та безперервні поліпшення",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_a19b3067c9696fc23ed8c11bcd72e87505f1433c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/interior-photography/",
+    "ru": "Интерьерная фотография",
+    "ua": "Інтер'єрна фотографія",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_28d5801be8c4a03eb5de1ab9291d07dbed93f914.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/stress-management/",
+    "ru": "Стресс-менеджмент",
+    "ua": "Стрес-менеджмент",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_402f59a0f9267fc610a8f5200e2a89acb4886cf7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/character-illustration/",
+    "ru": "Персонажная иллюстрация",
+    "ua": "Ілюстрація персонажа",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_109a07e6bbb33a0dc86c4a2cab8b7edd542f1928.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sibirix-managment/",
+    "ru": "Руководитель digital-проектов",
+    "ua": "Керівник digital-проєктів",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2dfa74f51d6dba9f0d0bde7b9822f164d9177be5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/service-design/",
+    "ru": "Сервисный дизайн и клиентский опыт",
+    "ua": "Сервісний дизайн і клієнтський досвід",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fd1f010bf69e651cde376e7a1ad8eafc36512da4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-tracker/",
+    "ru": "Трекер для бизнеса",
+    "ua": "Трекер для бізнесу",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7b5ecc1a51f80effc0a4c246e7c4948ec0ac3556.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/archicad-23/",
+    "ru": "Archicad с нуля до PRO",
+    "ua": "Archicad з нуля до PRO",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_41b208f6fe144ee2f2d5d6842fc71fc552f3d8ae.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/redcollar/",
+    "ru": "Дизайнер промосайтов",
+    "ua": "Дизайнер промосайтів",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ee1a8f71bee88ebd5888c0cf3ce7855ec9235063.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/floristics/",
+    "ru": "Флористика с нуля",
+    "ua": "Флористика з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e49408f6b1fc1152ae241e934f7c1424c6837b58.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/clothing-designer/",
+    "ru": "Конструирование одежды",
+    "ua": "Конструювання одягу",
+    "isPro": false,
+    "category": "design",
+    "period": "14 недель",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4be769ae5c9bb66d7c51170b001b020a44ba9ed0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-analyst/",
+    "ru": "Тренд-аналитик в Fashion",
+    "ua": "Тренд-аналітик в Fashion",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_5f8d888e12c6d380bd1c63b9d9cd03b13acadf6e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/branding/",
+    "ru": "Брендинг и бренд-дизайн",
+    "ua": "Брендинг і бренд-дизайн",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f5eb9857e14f8510f9a9cc1e24a93492558c11ac.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/adobe-lightroom/",
+    "ru": "Adobe Lightroom",
+    "ua": "Adobe Lightroom",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_96331785713611a5f80e6b0fd1ef5dd60f51b160.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/ipad-sketching/",
+    "ru": "Скетчинг на планшете",
+    "ua": "Скетчінг на планшеті",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_94d5082f3c4fe3c8a7c456eec8e48781cd1f624b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/leadership-and-manage-in-design/",
+    "ru": "Лидерство и управление в дизайне",
+    "ua": "Лідерство і управління в дизайні",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6f7c2ba32a1bb0fb00bc2491fb8fac71d86b2c39.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/3d-max-visualisation/",
+    "ru": "Визуализация в 3ds Max и V-Ray",
+    "ua": "Візуалізація в 3ds Max і V-Ray",
+    "isPro": false,
+    "category": "design",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8b0b8f310eb039e542bbd8a4d3718e252c2a5734.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/janda/",
+    "ru": "UX Design с Майклом Джандой",
+    "ua": "UX Design з Майклом Джандо",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_99f0c14d2ac773b3a9a9b55023449cfebf1d46af.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/paratype/",
+    "ru": "Шрифт в дизайне",
+    "ua": "Шрифт в дизайні",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_dadff7a740e5fc86275cdd8d1534094a335e6e66.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/design-of-printed-media/",
+    "ru": "Дизайн печатных изданий",
+    "ua": "Дизайн друкованих видань",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0c9816781771e6b8771ade73da0c3a8f9eb9d7fb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/rhinoceros-3d/",
+    "ru": "3D-моделирование украшений в Rhinoceros",
+    "ua": "3D-моделювання прикрас в Rhinoceros",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b6369fa6f4ff9aec94986eaf8c3c9a7e255469ff.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/freelance-designer/",
+    "ru": "Дизайнер на фрилансе в Digital",
+    "ua": "Дизайнер на фрілансі в Digital",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_506b227d351eb5cc14a3085ca38c19b8ece5a062.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/adobexd/",
+    "ru": "Adobe XD",
+    "ua": "Adobe XD",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f1e251f39ec76ce6b0efe15b597c80a70c590888.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/brand-strategy/",
+    "ru": "Бренд-стратегия",
+    "ua": "Бренд-стратегія",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_455659537ea3cabe46b76cf2006f046bc5b0be9d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/event-floristry/",
+    "ru": "Event-флористика",
+    "ua": "Event-флористика",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_229b926fe8ea1bb811546d84122e1849b3cf561a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/elementary-music-theory/",
+    "ru": "Элементарная музыкальная теория",
+    "ua": "Елементарна музична теорія",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b9068bb1956ac904d971f93c35a352dc104d2ccb.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sketch/",
+    "ru": "Sketch",
+    "ua": "Sketch",
+    "isPro": false,
+    "category": "design",
+    "period": "8 недель",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2a538b8b6618ec1bf0ef2e9948845af840922be3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/florist-business-course/",
+    "ru": "Организация цветочного бизнеса с нуля",
+    "ua": "Організація квіткового бізнесу з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_062b7b77c28e10e702b187b2c91e53467bd3ce5c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-producing/",
+    "ru": "Продюсирование в Fashion",
+    "ua": "Продюсування в Fashion",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3af94d646e56469a8590d71887e8ea18452a73f6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/indesign/",
+    "ru": "InDesign",
+    "ua": "InDesign",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bc5193b329590e7a91342fca6aafcf5bfbe925cf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/realtime-landscaping-architect/",
+    "ru": "Realtime Landscaping Architect",
+    "ua": "Realtime Landscaping Architect",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2b4dc9010294ad2beca7190d4ce0a1d98ec32f78.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/sketchup/",
+    "ru": "Проектирование и визуализация в SketchUp",
+    "ua": "Проектування і візуалізація в SketchUp",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_2241dfe6b5d8364c597309ad3991235c06ff6779.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-shooting-stylist/",
+    "ru": "Стилист fashion-съёмок",
+    "ua": "Стиліст fashion-зйомок",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3fdc4032f37beebd2d15c672e6784c9b5c1a5019.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/designer-smm/",
+    "ru": "Дизайнер социальных сетей",
+    "ua": "Дизайнер соціальних мереж",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_639c27cadb0934ab1287294ad8edf5dcad936244.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/portrait-photography/",
+    "ru": "Портретная фотография",
+    "ua": "Портретна фотографія",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c0eb4a6ef87a9cd5b0f2c282b186decbac58b0d7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/pot-plants/",
+    "ru": "Горшечные растения",
+    "ua": "Горщечкові рослини",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0a9a12b73400ce323ca8d3cc357cdbbe6de8b820.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/capture-one/",
+    "ru": "Capture One",
+    "ua": "Capture One",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0beb581fc89caecf5a027d59e53751500089f7b0.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/landscape-lighting-design/",
+    "ru": "Светодизайн ландшафтной среды",
+    "ua": "Світлодизайн ландшафтного середовища",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_fe6151317b344d555032ab27b119b4221bbf6b66.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/space-design/",
+    "ru": "Ландшафтный дизайн общественных пространств",
+    "ua": "Ландшафтний дизайн громадських просторів",
+    "isPro": false,
+    "category": "design",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_32745b1790d06de6972c38ae500b8a2247c193c8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/wedding-floristry/",
+    "ru": "Свадебная флористика",
+    "ua": "Весільна флористика",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8a19130f872aecd776dbfe3dbca95ff5b6b14bb4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/personal-stylist/",
+    "ru": "Персональный стилист",
+    "ua": "Персональний стиліст",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4ebbb0152940132db16660681116b97bfc523008.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-history/",
+    "ru": "История моды",
+    "ua": "Історія моди",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_71c992ce405730a1156d86c9d937cb2efce105f2.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/restaurant-manager/",
+    "ru": "Управляющий рестораном",
+    "ua": "Керуючий рестораном",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_70fe1c9221c549f772e76482718b4c3d663dcfe6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/mixing-and-mastering/",
+    "ru": "Сведение и мастеринг",
+    "ua": "Зведення і мастеринг",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f431b65b743136e1091ac0a672ab32b1ea4c391a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/principle-app/",
+    "ru": "Анимация интерфейсов в Principle",
+    "ua": "Анімація інтерфейсів в Principle",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7744db90ef3288b3106fd2f5b7b6bf5f673d65bf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/construction-project-management/",
+    "ru": "Строительный проект: с нуля до успешной сдачи",
+    "ua": "Будівельний проект: з нуля до успішної здачі",
+    "isPro": false,
+    "category": "-",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_de17027c89e3f7abf98de37d678d988d7e807ed7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/product-teams-accelerator/",
+    "ru": "Акселератор продуктовых IT-команд",
+    "ua": "Акселератор продуктових IT-команд",
+    "isPro": false,
+    "category": "-",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_110471c1b28ea4346152e5baded25ba700b1d853.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/effective-communication/",
+    "ru": "Эффективная деловая коммуникация",
+    "ua": "Ефективна ділова комунікація",
+    "isPro": false,
+    "category": "-",
+    "period": "5 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_ca883f83c99a4d1c4e9ea98e7a021530591559e3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/intellectual-property-lawyer/",
+    "ru": "Защита интеллектуальной собственности",
+    "ua": "Захист інтелектуальної власності",
+    "isPro": false,
+    "category": "-",
+    "period": "7 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_68e6ce70fd197d64e3c485534466c14412b3231f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/trendwatching-basics/",
+    "ru": "Трендвотчинг как инструмент для развития бизнеса",
+    "ua": "Трендвотчінг як інструмент для розвитку бізнесу",
+    "isPro": false,
+    "category": "-",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_638357b355f8526009386a149da47913cc289e03.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/project-management/",
+    "ru": "Управление проектами",
+    "ua": "Управління проєктами",
+    "isPro": false,
+    "category": "-",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_000b7883d6d6a0ccf25d57adbe9a083f9bc6e1f4.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/design-corporate-online-training/",
+    "ru": "Разработка корпоративных онлайн-курсов",
+    "ua": "Розробка корпоративних онлайн-курсів",
+    "isPro": false,
+    "category": "-",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_995297ff6dbae067bc4c030e161413ea505f315b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/mun/",
+    "ru": "Методы увеличения нефтеотдачи",
+    "ua": "Методи збільшення нафтовіддачі",
+    "isPro": false,
+    "category": "-",
+    "period": "6 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_f726f1efed3574e6104ecc1e050a80537052603c.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/business-process-robotization/",
+    "ru": "Управление проектом автоматизации и роботизации",
+    "ua": "Управління проектом автоматизації і роботизації",
+    "isPro": false,
+    "category": "-",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3799c041c52a9063e16476561215d6d4ffdecf5b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/merch-designer/",
+    "ru": "Дизайнер мерча",
+    "ua": "Дизайнер мерча",
+    "isPro": false,
+    "category": "-",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_977ecc4d474328ff1c211893712a2de8b7e663d1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/landscape-sketching/",
+    "ru": "Ландшафтный скетчинг",
+    "ua": "Ландшафтний скетчінг",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3706088fb30aafe982dd616eb6abb31c42936fe3.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/td-ld-manager/",
+    "ru": "Менеджер по обучению и развитию персонала",
+    "ua": "Менеджер з навчання та розвитку персоналу",
+    "isPro": false,
+    "category": "design",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0da13891c868f284b5bc90f7f693280dfd2e71c1.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/anti-crisis-marketing/",
+    "ru": "Антикризисный маркетинг",
+    "ua": "Антикризовий маркетинг",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d5bc4f3612c97742b0c78905b4ebad772fdafd22.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/wellness-Internal-balance/",
+    "ru": "Wellness. Внутренний баланс",
+    "ua": "Wellness. Внутрішній баланс",
+    "isPro": false,
+    "category": "marketing",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_4ea9fa753692a18ec7fe70c99ca8b1ddbf37c8ee.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/script-for-tvseries/",
+    "ru": "Как написать сценарий к сериалу",
+    "ua": "Як написати сценарій до серіалу",
+    "isPro": false,
+    "category": "games",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e0533871ff2e70aff0f7a0499a1ecf5b6991e28e.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/calligraphy/",
+    "ru": "Каллиграфия с нуля",
+    "ua": "Каліграфія з нуля",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_80a9cfaf5be7ed8688bd8327c800fb9cd148164a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/location-manager/",
+    "ru": "Локейшн-менеджер",
+    "ua": "Локейшн-менеджер",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_d788b9b7c9c2945ccc9842dc06a39a2215e60dbf.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/scrum-basic/",
+    "ru": "Основы Scrum",
+    "ua": "Основи Scrum",
+    "isPro": false,
+    "category": "multimedia",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_acec6a7ee742352071065ab011481a89ca05e1b7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/certified-scrum-master/",
+    "ru": "Certified ScrumMaster ®",
+    "ua": "Certified ScrumMaster ®",
+    "isPro": false,
+    "category": "management",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b455575c7c23108a58261c44215f1c4e4256b089.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/certified-scrum-product-owner/",
+    "ru": "Certified Scrum Product Owner®",
+    "ua": "Certified Scrum Product Owner®",
+    "isPro": false,
+    "category": "management",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b9d7a302399cdc5d04b469d9719e9622fe0d9701.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/contract-work-for-business/",
+    "ru": "Договорная работа в цифровой среде",
+    "ua": "Договірна робота в цифровому середовищі",
+    "isPro": false,
+    "category": "management",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_518555b26da7827b224119c937c19003739fb6d8.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fashion-photography/",
+    "ru": "Fashion-фотография",
+    "ua": "Fashion-фотографія",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e25f99d69e90360b141c1e5bfdf056c86b4b1ae6.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/chess-for-beginners/",
+    "ru": "Шахматы с нуля",
+    "ua": "Шахи з нуля",
+    "isPro": false,
+    "category": "design",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0936763585d036e56118bb0a7d907b4ec3cb0e02.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/fundamentals-of-economic-thinking/",
+    "ru": "Основы экономического мышления",
+    "ua": "Основи економічного мислення",
+    "isPro": false,
+    "category": "games",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_093387aa112746925e8cf55352e8f0cf8ebcd7f7.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/readymag-project/",
+    "ru": "Проект в Readymag",
+    "ua": "Проєкт в Readymag",
+    "isPro": false,
+    "category": "management",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_8db09d74aa48156e56ee0933714171c078e485ef.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/exchequer/",
+    "ru": "Казначейство",
+    "ua": "Казначейство",
+    "isPro": false,
+    "category": "design",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_b1835664c6afbf0eb68392c0ca2fd8f462c59a71.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/textile-decor-from-scratch-to-pro/",
+    "ru": "Текстильный декор с нуля до PRO",
+    "ua": "Текстильний декор з нуля до PRO",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_1fc2b225489a2bbe1dfa438e68879df0f7b07767.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/copyright-in-digital/",
+    "ru": "Авторское право в цифровой среде",
+    "ua": "Авторське право в цифровому середовищі",
+    "isPro": false,
+    "category": "design",
+    "period": "2 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e35740f55a27c522af4ad5958fd87a6b25723e4d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/corporate-finance-planning-and-analysis/",
+    "ru": "Корпоративные финансы: планирование и анализ",
+    "ua": "Корпоративні фінанси: планування та аналіз",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_9c23da35684ccffd2e5e7c491e605296f12b6bcd.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-jewel-designer/",
+    "ru": "Ювелирный дизайнер",
+    "ua": "Ювелірний дизайнер",
+    "isPro": true,
+    "category": "management",
+    "period": "9 месяцев",
+    "color": "#fefbe9",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_3d0a26e939df4186af3f0cd6a6a4b4ec66b09f64.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-seo/",
+    "ru": "SEO-специалист",
+    "ua": "SEO-спеціаліст",
+    "isPro": true,
+    "category": "design",
+    "period": "18 месяцев",
+    "color": "#ffbfbf",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_266da9c99ff518888beaeb394fa364325afb4519.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-frontend/",
+    "ru": "Frontend-разработчик",
+    "ua": "Frontend-розробник",
+    "isPro": true,
+    "category": "marketing",
+    "period": "10 месяцев",
+    "color": "#ccccff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_43afbe9d1ec41aee8065059cf6131387347a0dd5.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-ios-developer/",
+    "ru": "iOS-разработчик",
+    "ua": "iOS-розробник",
+    "isPro": true,
+    "category": "programming",
+    "period": "14 месяцев",
+    "color": "#e4d8ff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_c17aa53d64534eb9e4d8221d59506e0fcde6125f.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/profession-data-analyst/",
+    "ru": "Data Scientist: анализ данных",
+    "ua": "Data Scientist: аналіз даних",
+    "isPro": true,
+    "category": "programming",
+    "period": "9 месяцев",
+    "color": "#c3dbff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_6635144847d9b29395754389799716770d15ab6b.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/webdev/",
+    "ru": "Веб-разработчик с нуля до PRO",
+    "ua": "Веб-розробник з нуля до PRO",
+    "isPro": false,
+    "category": "programming",
+    "period": "10 месяцев",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_e82c349bf5955d3bd77c5e2d7057749eba8ff98a.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/itproject/",
+    "ru": "Управление проектами",
+    "ua": "Управління проєктами",
+    "isPro": false,
+    "category": "programming",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_bec0ed4446156f023161a416b08894babf22f872.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/aic-analytics/",
+    "ru": "UX-аналитик",
+    "ua": "UX-аналітик",
+    "isPro": false,
+    "category": "management",
+    "period": "4 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_0975c9bb45cf5810832117228c9379f2430f1692.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/angular/",
+    "ru": "Angular",
+    "ua": "Angular",
+    "isPro": false,
+    "category": "marketing",
+    "period": "3 месяца",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_7e03f792543281316340250b0460b60b06544c6d.png"
+  },
+  {
+    "url": "https://skillbox.ru/course/custdev-production-companies/",
+    "ru": "Custdev в промышленности: запуск нового продукта в B2B-сегменте",
+    "ua": "Custdev в промисловості: запуск нового продукту в B2B-сегменті",
+    "isPro": false,
+    "category": "programming",
+    "period": "1 месяц",
+    "color": "#ffffff",
+    "img": "https://248006.selcdn.ru/LandGen/desktop_83f7d6eb3174de1761a21f197c8750036515415b.png"
+  }
+]

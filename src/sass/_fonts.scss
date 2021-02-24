@@ -1,0 +1,19 @@
+//// Fonts
+$font-path: '/fonts';
+
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url($font-path + '/Graphik-Regular.woff2') format('woff2'),
+  url($font-path + '/Graphik-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url($font-path + '/Graphik-Medium.woff2') format('woff2'),
+  url($font-path + '/Graphik-Medium.woff') format('woff');
+}

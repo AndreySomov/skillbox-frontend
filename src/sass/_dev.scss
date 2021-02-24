@@ -1,0 +1,139 @@
+.button {
+  &:active,
+  &:focus {
+
+  }
+  &__icon {
+    transition: filter 0.2s ease;
+  }
+}
+.courses__btn {
+  &:hover {
+    .button__icon {
+      filter: invert(1);
+    }
+  }
+  &:not(:disabled) {
+    &:focus,
+    &:hover {
+      .button__icon {
+        filter: invert(1);
+      }
+    }
+  }
+}
+.button-up {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:focus,
+  &:hover {
+    .button-up {
+      &__icon {
+        filter: invert(1);
+      }
+    }
+  }
+  &__icon {
+    transition: filter 0.2s ease;
+  }
+}
+.nav {
+  &__btn {
+    border: none;
+    background-color: transparent;
+  }
+}
+.courses__info {
+  margin-left: 7px;
+}
+
+// accordion (F.A.Q.)
+$accordion-transition: 0.3s ease-out;
+.accordion {
+  &__item {
+    border-top: 1px solid black;
+
+    &:last-child {
+      border-bottom: 1px solid black;
+    }
+    &:hover {
+      .accordion__cross {
+        background-color: #eee;
+        border-radius: 50%;
+      }
+    }
+    &._active {
+      .accordion {
+        &__cross {
+          &:before,
+          &:after {
+            transform: rotate(45deg);
+          }
+        }
+      }
+    }
+  }
+  &__cross {
+    display: block;
+    height: 40px;
+    width: 40px;
+    position: relative;
+
+    &:before,
+    &:after {
+      content: ' ';
+      background-color: rgb(58, 65, 245);;
+      position: absolute;
+      transition: transform ease-in-out 0.3s;
+    }
+    &:before {
+      top: 5px;
+      left: 50%;
+      margin-left: -2px;
+      width: 3px;
+      height: 30px;
+    }
+    &:after {
+      top: 50%;
+      left: 5px;
+      margin-top: -2px;
+      width: 30px;
+      height: 3px;
+    }
+  }
+  &__btn {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    position: relative;
+    padding-top: 32px;
+    padding-bottom: 30px;
+
+    &:hover {
+      + .accordion__content {
+        will-change: max-height;
+      }
+    }
+  }
+  &__box {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height $accordion-transition;
+  }
+  &__title {
+    font-weight: 600;
+    font-size: 24px;
+    letter-spacing: -0.03em;
+    flex-basis: calc(100% - 40px);
+  }
+  &__content {
+    font-size: 18px;
+    padding-bottom: 30px;
+
+    a {
+      color: rgb(58, 65, 245);
+    }
+  }
+}
